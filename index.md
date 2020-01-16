@@ -52,10 +52,9 @@ Computer Technician
 `2015 - now`
 [__SOS System__](http://sospostos.com.br/)
 
-Fulltime job in software development (junior and mid-level).  
-Project co-coordination from specification to testing.  
-Driven by code quality and innovation.
-
+- Fulltime job in software development (junior and mid-level)
+- Project co-coordination from specification to testing
+- Driven by code quality and innovation
 - Windows Forms applications
 - .NET Framework / Core
 - PostgreSQL, PL/pgSQL
