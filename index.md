@@ -13,15 +13,14 @@ Software developer.
 
 ## Contact info
 Male. Single.  
-Bauru, São Paulo, Brazil.  
+São Paulo, São Paulo, Brazil.  
 <a href="mailto:bruno@logerfo.tk">bruno@logerfo.tk</a>  
 +55 (14) 9 8197-8257
 
 ## Currently
 
-Working fulltime at an automation systems software house  
-focused on gas stations management workflow.  
-Looking for new opportunities.
+Working fulltime at an financial systems software house
+both on internal and third party back-end projects.
 
 ## Skills
 <!-- ★☆ -->
@@ -49,7 +48,20 @@ Computer Technician
 
 ## Occupation
 
-`2015 - now`
+`2020 - now`
+[__Beyond Soluções__](http://imaginebeyond.com.br/)
+
+- Fulltime job in back-end web development (mid and senior level)
+- ASP .NET APIs
+- .NET Framework / Core
+- PostgreSQL, SQL Server, Entity Framework (EF Core), Dapper
+- Docker
+- Unit and integration tests
+- Third party financial software integration
+- Azure DevOps, GitLab
+- Code review
+
+`2015 - 2020`
 [__SOS System__](http://sospostos.com.br/)
 
 - Fulltime job in software development (junior and mid-level)
@@ -77,4 +89,4 @@ __OSTecnologic__
 - PostgreSQL database
 
 ---
-Last updated: Dec 2019
+Last updated: Jun 2020
